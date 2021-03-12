@@ -1,4 +1,9 @@
 module.exports = {
+    purge: [],
+    darkMode: 'media',
+    variants: {
+        extend: {},
+    },
     theme: {
         extend: {
             fontSize: {
