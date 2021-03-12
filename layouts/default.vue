@@ -1,6 +1,9 @@
 <template>
   <section>
     <Nuxt />
+    <CTA />
+    <Contact />
+    <Footer />
   </section>
 </template>
 

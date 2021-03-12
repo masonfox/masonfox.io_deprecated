@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <Contact />
+    <About />
   </div>
 </template>
 
